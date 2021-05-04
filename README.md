@@ -4,8 +4,10 @@
 
 ### Screenshots
 
-![Desktop view](./images/desktop.jpg)
-![Mobile view](./images/mobile.jpg)
+![Desktop anually view](./images/desktop-annually.jpg)
+![Desktop monthly view](./images/desktop-monthly.jpg)
+![Mobile anually view](./images/mobile-annually.jpg)
+![Mobile monthly view](./images/mobile-monthly.jpg)
 
 ## The challenge
 
@@ -26,6 +28,10 @@ Your users should be able to:
 
 ## My process
 
+- Used containers for structuring the categories.
+- Used same classes on similar elements.
+- Additional classes to change certain behaviour of similar but not same elements.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -36,7 +42,14 @@ Your users should be able to:
 
 ### What I learned
 
+- Pseudo elements for creating top and bottom borders.
+- Hover transition for making the buttons look real.
+- Use of flex containers on many levels of hierarchy.
+- Gradient to be used as color of element.
+
 ### Continued development
+
+- CSS Tricks to do things inherently instead of JS overrides.
 
 ## Author
 
